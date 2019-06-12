@@ -1,0 +1,45 @@
+Determining if the include file linux/videodev.h exists failed with the following output:
+Change Dir: /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e25d3/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_e25d3.dir/build.make CMakeFiles/cmTC_e25d3.dir/build
+Building C object CMakeFiles/cmTC_e25d3.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -ffunction-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_e25d3.dir/CheckIncludeFile.c.o   -c /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev.h' file not found
+#include <linux/videodev.h>
+         ^~~~~~~~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_e25d3.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_e25d3/fast] Error 2
+
+
+Determining if the include file linux/videodev2.h exists failed with the following output:
+Change Dir: /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_63ac5/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_63ac5.dir/build.make CMakeFiles/cmTC_63ac5.dir/build
+Building C object CMakeFiles/cmTC_63ac5.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -ffunction-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_63ac5.dir/CheckIncludeFile.c.o   -c /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'linux/videodev2.h' file not found
+#include <linux/videodev2.h>
+         ^~~~~~~~~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_63ac5.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_63ac5/fast] Error 2
+
+
+Determining if the include file sys/videoio.h exists failed with the following output:
+Change Dir: /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_df5a0/fast 
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_df5a0.dir/build.make CMakeFiles/cmTC_df5a0.dir/build
+Building C object CMakeFiles/cmTC_df5a0.dir/CheckIncludeFile.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -fno-omit-frame-pointer -ffunction-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_df5a0.dir/CheckIncludeFile.c.o   -c /Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/videoio.h' file not found
+#include <sys/videoio.h>
+         ^~~~~~~~~~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_df5a0.dir/CheckIncludeFile.c.o] Error 1
+make: *** [cmTC_df5a0/fast] Error 2
+
+

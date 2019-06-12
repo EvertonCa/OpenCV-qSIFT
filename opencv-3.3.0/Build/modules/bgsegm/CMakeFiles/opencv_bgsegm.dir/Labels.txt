@@ -1,0 +1,27 @@
+# Target labels
+ Extra
+ opencv_bgsegm
+ Module
+# Source files and their labels
+/Users/evertoncardoso/Developer/OpenCV/opencv_contrib-3.3.0/modules/bgsegm/include/opencv2/bgsegm.hpp
+ Extra
+ opencv_bgsegm
+ Module
+/Users/evertoncardoso/Developer/OpenCV/opencv_contrib-3.3.0/modules/bgsegm/src/bgfg_gaussmix.cpp
+ Extra
+ opencv_bgsegm
+ Module
+/Users/evertoncardoso/Developer/OpenCV/opencv_contrib-3.3.0/modules/bgsegm/src/bgfg_gmg.cpp
+ Extra
+ opencv_bgsegm
+ Module
+/Users/evertoncardoso/Developer/OpenCV/opencv_contrib-3.3.0/modules/bgsegm/src/bgfg_subcnt.cpp
+ Extra
+ opencv_bgsegm
+ Module
+/Users/evertoncardoso/Developer/OpenCV/opencv_contrib-3.3.0/modules/bgsegm/src/precomp.hpp
+ Extra
+ opencv_bgsegm
+ Module
+/Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/cvconfig.h
+/Users/evertoncardoso/Developer/OpenCV/opencv-3.3.0/Build/opencv2/opencv_modules.hpp
